@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Data,Python, Power BI, SQL, Hugging Face Transformers**
+- 🌱 I’m currently learning **AI, ML, Python, Power BI, SQL, Hugging Face Transformers**
 - 💬 Ask me about **Data Analytics, AI Agents, or anything tech**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **https://www.linkedin.com/in/rohantodkar0705/**
 - ⚡ Fun fact: *I automate everything I can!*
 
 ---
