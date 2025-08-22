@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'Rohan+Todkar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊;+I'm+Rohan+Todkar!;" />
 </h1>
 </h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
-<img align="right" alt="Broken_gif" width="300" src="<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/946b80a6-bc91-4df6-8b4b-96dc41b27cfa" />
+<img align="right" alt="Broken_gif" width="300" src="https://dribbble.com/shots/10875204-Granular-graph?utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Granular%20graph&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Granular%20graph&utm_medium=Social_Share" />
 ">
 
 <h3 align="left">SKILLS:</h3>
