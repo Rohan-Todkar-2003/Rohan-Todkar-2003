@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sree+Vignesh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohan Todkar!;" />
 </h1>
 </h1>
-<h3 align="center">An Aspiring Data Analyst from India</h3>
-<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
+<h3 align="center">An Aspiring Data Analyst</h3>
+<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif](https://pin.it/5rsH92ql3)">
 
 <h3 align="left">SKILLS:</h3>
 <p align="left">
@@ -18,16 +18,12 @@
 
 - Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DXyicYvZaepL&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-<a href="https://github.com/sreevignesh05?tab=repositories" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12987&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
-</p> 
 
 
-<h3 align="left">Portfolio/LinkedIn:</h3>
+
+<h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
-<a href="https://www.linkedin.com/in/sree-vignesh-05-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sree-vignesh-05-" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/rohantodkar0705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sree-vignesh-05-" height="50" width="50" /></a>
 </p> 
 
 
