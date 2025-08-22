@@ -1,24 +1,35 @@
-<h1>Hi 👋, I'm  Rohan</h1>
-<p>Aspiring Data Scientist </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/rohantodkar0705/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/30570840/rohan-todkar" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rohan-Todkar-2003" alt="Rohan-Todkar-2003" /></a></p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sree+Vignesh!;" />
+</h1>
+</h1>
+<h3 align="center">An Aspiring Data Analyst from India</h3>
+<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
+
+<h3 align="left">SKILLS:</h3>
+<p align="left">
+    
+- Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=Cq225MC8MgBu&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="25" width="25" /></a>.
+    
+- Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=UD9nG7mgbuXZ&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
+
+- Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=RXrON5kyN96A&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
+
+- Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=51769&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
+
+- Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DXyicYvZaepL&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
+
+<h3 align="left">Projects:</h3>
+<p align="left">
+<a href="https://github.com/sreevignesh05?tab=repositories" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12987&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
+</p> 
+
+
+<h3 align="left">Portfolio/LinkedIn:</h3>
+<p align="left">
+<a href="https://codebasics.io/portfolio/SREE-VIGNESH-S" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=B2kE1iYkRIiw&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
+<a href="https://www.linkedin.com/in/sree-vignesh-05-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sree-vignesh-05-" height="50" width="50" /></a>
+</p> 
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="55" height="55"/> </a> <a href="https://github.com/sreevignesh05/Business-Insights-360" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="60" height="60"/> </a> <a href="https://github.com/sreevignesh05/Sales-analytics" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" alt="Excel" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> </a>   </p> 
