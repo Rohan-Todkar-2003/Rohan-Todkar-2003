@@ -3,7 +3,7 @@
 </h1>
 </h1>
 <h3 align="center">An Aspiring Data Analyst</h3>
-<img align="right" alt="Broken_gif" width="300" src="https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif">
+<img align="right" alt="Broken_gif" width="300" src="https://pin.it/5rsH92ql3">
 
 <h3 align="left">SKILLS:</h3>
 <p align="left">
