@@ -18,10 +18,6 @@
 
 - Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=DXyicYvZaepL&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="30" width="30" /></a>.
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-<a href="https://github.com/sreevignesh05?tab=repositories" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=12987&format=png&color=000000" alt="https://codebasics.io/portfolio/SREE-VIGNESH-S" height="75" width="75" /></a> 
-</p> 
 
 
 <h3 align="left">Portfolio/LinkedIn:</h3>
