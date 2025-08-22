@@ -3,8 +3,7 @@
 </h1>
 </h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
-<img align="right" alt="Broken_gif" width="300" src="https://dribbble.com/shots/10875204-Granular-graph?utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Granular%20graph&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Granular%20graph&utm_medium=Social_Share" />
-">
+<img align="right" alt="Broken_gif" width="300" src="https://dribbble.com/shots/10875204-Granular-graph?utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Granular%20graph&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=lemondigital&utm_content=Granular%20graph&utm_medium=Social_Share">
 
 <h3 align="left">SKILLS:</h3>
 <p align="left">
