@@ -113,14 +113,15 @@
 
 ---
 
-### 🎯 Recent Work
+### 🎯 Worked On
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Sales Performance Dashboard** | Interactive Power BI dashboard analyzing sales trends and KPIs | Power BI, DAX, SQL | ✅ Complete |
-| **Customer Churn Prediction** | ML model predicting customer churn with 85% accuracy | Python, Scikit-learn, Pandas | 🔄 In Progress |
-| **Market Basket Analysis** | Association rule mining for retail recommendations | Python, Apriori Algorithm | ✅ Complete |
-| **Financial Data Pipeline** | Automated ETL pipeline for financial data processing | Python, SQL, Apache Airflow | 📋 Planning |
+| **[Cyberbullying Detection System](https://github.com/Rohan-Todkar-2003/Predicting_Cyberbullying_Infosys_Internship_Oct24)** | ML-powered Flask web app for real-time cyberbullying detection using NLP techniques | Python, Flask, Scikit-learn, NLP, TF-IDF | ✅ Complete |
+| **[YouTube Analytics Dashboard](https://github.com/Rohan-Todkar-2003/YouTube_Analysis_Dashboard_PowerBi)** | Interactive Power BI dashboard analyzing 24M+ interactions across 20+ YouTube channels | Power BI, DAX, Data Modeling | ✅ Complete |
+| **[SmartAttend Facial Recognition](https://github.com/Rohan-Todkar-2003/SmartAttend-Facial_Recognition_Attendance_System)** | AI-powered employee attendance system with anti-spoofing technology | Python, OpenCV, Flask, SQLite, Computer Vision | ✅ Complete |
+| **[Hospital ER Analytics Dashboard](https://github.com/Rohan-Todkar-2003/hospital-er-analysis-dashboard-excel)** | Healthcare analytics dashboard monitoring patient flow and KPIs | Excel, Pivot Tables, Data Visualization | ✅ Complete |
+| **[SQL Data Warehouse Project](https://github.com/Rohan-Todkar-2003/sql-data-warehouse-project)** | Modern data warehouse using Medallion Architecture (Bronze-Silver-Gold) | SQL Server, ETL, Data Modeling, Analytics | ✅ Complete |
 
 ---
 
